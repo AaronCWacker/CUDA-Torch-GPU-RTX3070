@@ -11,3 +11,7 @@ Nsight Compute 2023.1.0
 Nsight Systems 2023.1.2
 Nsight Monitor
 
+Set these traces.  Set hotkey to F2.  Add python backtrace
+
+![image](https://user-images.githubusercontent.com/30595158/223607018-fd00fc13-c7f6-41bb-811e-903b045a0760.png)
+
