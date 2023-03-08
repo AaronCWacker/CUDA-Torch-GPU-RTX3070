@@ -57,3 +57,18 @@ Set these traces.  Set hotkey to F2.  Add python backtrace
   - sampling at 1 kHz means profiler takes a sample every millisecond for high-resolution view of performance ⏱️
   
 Overall, these tools can help identify performance issues and optimize applications for better performance on GPU or CPU. 🚀
+
+# Deep Learning Libraries
+
+1. NVIDIA cuDNN 🧠💻
+- GPU-accelerated library of primitives for deep neural networks
+2. NVIDIA TensorRT™ 🚀🤖
+- High-performance deep learning inference optimizer and runtime for production deployment
+3. NVIDIA Riva 🗣️🤖
+- Platform for developing engaging and contextual AI-powered conversation apps
+4. NVIDIA DeepStream SDK 📹🤖
+- Real-time streaming analytics toolkit for AI-based video understanding and multi-sensor processing
+5. NVIDIA DALI 🎥💪
+- Portable, open-source library for decoding and augmenting images and videos to accelerate deep learning applications
+
+
